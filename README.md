@@ -1,4 +1,4 @@
-# dism-drvbackup
+# drvbackup
 A DISM tool that makes a backup of all your drivers.
 
 - For restoring the drivers, use my another tool called [drvrestore](https://github.com/lucmsilva651/drvrestore).
